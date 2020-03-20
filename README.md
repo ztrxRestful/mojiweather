@@ -1,7 +1,7 @@
 # mojiweather
 获取天气信息
 
-初始化时，begin('省/直辖市'，'地级市/直辖市')  拼音
+初始化时，begin('省/直辖市'，'地级市/直辖市')  拼音  
 例如：('shanghai','shanghai')  
 例如：('shandong','jinan')
 
