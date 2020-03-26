@@ -1,6 +1,6 @@
 from urllib.request import urlopen
 from bs4 import BeautifulSoup
-import wechat
+#import wechat
 
 
 class begin():
@@ -58,5 +58,6 @@ if __name__ == '__main__':
     print(night_weather)
     print(pm25)
     print(advise)
+
 
 
